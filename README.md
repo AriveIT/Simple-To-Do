@@ -1,4 +1,10 @@
-# New Project
+# Simple To Do
+
+Basic typescript to do list
+
+Enter name of to do item and click add to create new to do item
+
+Saves to do list to local storage
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
